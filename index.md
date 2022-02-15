@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Create Your Own Minecraft Server, Easily
 
-You can use the [editor on GitHub](https://github.com/SocialCabin/CabinHost/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CabinHost is a project to provide new and upcoming minecraft servers with a trusted place to get easy and free minecraft server templates wether it be just for friends or for a new and upcoming server network, we've got your back.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Coming Later...
 
-### Markdown
+We're not launching, yet, sadly as the main SocialCabin project is still underway and needs to be finished and pushed out into beta but once that's done then this will get up and running.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Watch this space...**
 
-```markdown
-Syntax highlighted code block
+## Question or queries?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SocialCabin/CabinHost/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Let us know under contact@socialcabin.co.uk or open up a discusions thread on our main ask-questions repo.
