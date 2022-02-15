@@ -10,4 +10,4 @@ We're not launching, yet, sadly as the main SocialCabin project is still underwa
 
 ## Question or queries?
 
-Let us know under mailto:contact@socialcabin.co.uk or open up a discusions thread on our main ask-questions repo.
+Let us know under contact@socialcabin.co.uk or open up a discusions thread on our main ask-questions repo.
