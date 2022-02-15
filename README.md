@@ -1,2 +1,4 @@
 # CabinHost
-Free and Open-Source Minecraft server templates - COMING SOON
+The free and open-source minecraft server templates, verified by the SocialCabin team.
+
+**COMING LATER**
